@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    
+}
+nav{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+
+}
+a{font-size: 25px;
+    text-decoration: none;
+    font-family: "Segoe UI", sans-serif;
+    color: rgb(207, 6, 6);
+    font-weight: 600;
+    padding: 180vh;
+    transition: all;
+    transition-duration: 300ms;
+    border-bottom: 1px solid rgba orangered (255, 68, 0, 0);}
+    nav ul li a:hover{
+        color: orangered;
+        border-bottom: 1px solis black;
+    }
+    
